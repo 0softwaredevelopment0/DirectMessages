@@ -1,5 +1,7 @@
 # DirectMessages
 
+![Latest release](https://img.shields.io/github/v/release/0softwaredevelopment0/DirectMessages)
+
 Encrypted peer-to-peer messenger over TCP, written in Rust, with a full
 terminal user interface (TUI).
 
