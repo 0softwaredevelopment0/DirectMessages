@@ -128,4 +128,4 @@ State lives in the per-user config directory under `directmessages/`:
 
 ## License
 
-AGPL-3.0. See [LICENSE](LICENSE).
+AGPL-3.0. See [LICENSE](LICENSE.md).
